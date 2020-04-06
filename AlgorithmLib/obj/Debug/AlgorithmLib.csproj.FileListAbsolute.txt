@@ -1,0 +1,12 @@
+C:\Users\Vivi_r\source\repos\LearnProject\AlgorithmLib\bin\Debug\AlgorithmLib.dll
+C:\Users\Vivi_r\source\repos\LearnProject\AlgorithmLib\bin\Debug\AlgorithmLib.pdb
+C:\Users\Vivi_r\source\repos\LearnProject\AlgorithmLib\obj\Debug\AlgorithmLib.csprojAssemblyReference.cache
+C:\Users\Vivi_r\source\repos\LearnProject\AlgorithmLib\obj\Debug\AlgorithmLib.csproj.CoreCompileInputs.cache
+C:\Users\Vivi_r\source\repos\LearnProject\AlgorithmLib\obj\Debug\AlgorithmLib.dll
+C:\Users\Vivi_r\source\repos\LearnProject\AlgorithmLib\obj\Debug\AlgorithmLib.pdb
+C:\Users\Vivi_r\source\repos\AlgorithmsProject\AlgorithmLib\bin\Debug\AlgorithmLib.dll
+C:\Users\Vivi_r\source\repos\AlgorithmsProject\AlgorithmLib\bin\Debug\AlgorithmLib.pdb
+C:\Users\Vivi_r\source\repos\AlgorithmsProject\AlgorithmLib\obj\Debug\AlgorithmLib.csprojAssemblyReference.cache
+C:\Users\Vivi_r\source\repos\AlgorithmsProject\AlgorithmLib\obj\Debug\AlgorithmLib.csproj.CoreCompileInputs.cache
+C:\Users\Vivi_r\source\repos\AlgorithmsProject\AlgorithmLib\obj\Debug\AlgorithmLib.dll
+C:\Users\Vivi_r\source\repos\AlgorithmsProject\AlgorithmLib\obj\Debug\AlgorithmLib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLib", "AlgorithmLib\AlgorithmLib.csproj", "{9B310DA8-2E57-4CA6-A216-7C86165F9674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLibTests", "AlgorithmLibTests\AlgorithmLibTests.csproj", "{912BC630-FA84-4AE2-95F2-3D6F581F0841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B310DA8-2E57-4CA6-A216-7C86165F9674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B310DA8-2E57-4CA6-A216-7C86165F9674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B310DA8-2E57-4CA6-A216-7C86165F9674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B310DA8-2E57-4CA6-A216-7C86165F9674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912BC630-FA84-4AE2-95F2-3D6F581F0841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912BC630-FA84-4AE2-95F2-3D6F581F0841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912BC630-FA84-4AE2-95F2-3D6F581F0841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912BC630-FA84-4AE2-95F2-3D6F581F0841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016CC88A-D76B-4F58-B4F2-6EE37C29CC16}
+	EndGlobalSection
+EndGlobal
